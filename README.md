@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a undergrad student taking IT major. Looking forward to my github journey.
 <!--
 **aliSuhari/aliSuhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
